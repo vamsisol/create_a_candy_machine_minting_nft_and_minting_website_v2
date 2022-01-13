@@ -194,7 +194,7 @@ For devnet users, the command is:
 solana airdrop 2
 ```
 Successful airdrop will be be prompting message like this.
-![Balance and Airdrop](https://raw.githubusercontent.com/vamsisol/create_candy_machine_for_minting_nft/main/learn_src/learn_assets/3_Balance_and_Airdrop.png)
+![Balance and Airdrop](https://raw.githubusercontent.com/vamsisol/create_a_candy_machine_minting_nft_and_minting_website_v2/main/learn_src/learn_assets/3_Balance_and_Airdrop.png)
 
 ## CONFIGURATION OF CANDY MACHINE
 
