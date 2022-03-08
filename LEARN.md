@@ -29,7 +29,7 @@ The candy-machine is an on chain Solana program (smart contract) that governs fa
 ## New Features in CMv2
 
 - **Unpredictable mint index** - In the `CMv1`, it was possible to estimate what item would be minted, since minting happened in a sequential order. This created opportunity to be able to choose which item to mint. The `CMv2` eliminates the possibility by using an unpredictable mint index, which it is not possible to determine in advance. 
-- **Whitelist** - Ther ee is now possibility to create several different configurations for whitelists. You can allow whitelist users to mint before the start date, mint at a discount price or restrict the mint entirely to only whitelist users. 
+- **Whitelist** - There is now possibility to create several different configurations for whitelists. You can allow whitelist users to mint before the start date, mint at a discount price or restrict the mint entirely to only whitelist users. 
 - **Captcha Settings**- Integration with captcha to limit the mint to humans, a sad ending for bots.
 - **Larger collections and hide-and-reveal drops** - It is possible to create super large and hide-and-reveal drops by specifying a single hash, which is used by all mints.
 
